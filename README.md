@@ -1,8 +1,9 @@
-### <p align="center">👑 &nbsp;Visiteurs</p>
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/zayrox77/count.svg" />
-</p>
+<h2>💻 Hello World! Je suis Zay !</h2>
+
+-----
+### <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About Me</p>
+
+<p align="center"><img src="https://discord.c99.nl/widget/theme-4/878605115425181707.png"></p>
 
 -----
 ### <p align="center">⚙️ &nbsp;GitHub Analytics</p>
@@ -15,3 +16,8 @@
 </p>
 
 -----
+
+<p align="center"> 
+  Compteur de Visiteurs<br/><br/>
+  <img src="https://profile-counter.glitch.me/Zayy-is-here/count.svg" />
+</p>
