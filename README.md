@@ -5,7 +5,7 @@
 <img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
 ```csharp
-j@github
+coucou
 ----------------
 
        OS  :  Linux, Windows
