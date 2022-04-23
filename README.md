@@ -1,23 +1,19 @@
-<h2>💻 Hello World! Je suis Zay !</h2>
+```zsh
+> neofetch
+```
 
------
-### <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About Me</p>
+<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
-<p align="center"><img src="https://discord.c99.nl/widget/theme-4/878605115425181707.png"></p>
+```csharp
+j@github
+----------------
 
------
-### <p align="center">⚙️ &nbsp;GitHub Analytics</p>
+       OS  :  Linux, Windows
+       WM  :  
+Languages  :  Javascript, Python
+```
 
-<p align="center">
-<a href="https://github.com/GabinCleaver">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zayy-is-here&show_icons=true&theme=react&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zayy-is-here&layout=compact&langs_count=8&theme=react"/>
-</a>
-</p>
-
------
-
-<p align="center"> 
-  Compteur de Visiteurs<br/><br/>
-  <img src="https://profile-counter.glitch.me/Zayy-is-here/count.svg" />
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/57ab5a/000000?text=+" width="25" height="20" />
 </p>
