@@ -8,4 +8,6 @@
 </p>
 
 ---
-![Banner](https://data.whicdn.com/images/359264036/original.gif)
+
+
+![Banner](https://cdn.discordapp.com/attachments/921889023247671399/968917565210492968/unknown.png)
