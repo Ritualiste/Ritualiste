@@ -1,5 +1,6 @@
 ## My Discord:
 
+https://discord.gg/cyS3V65VYM
 
 ## 🌍 Programming languages:
 
