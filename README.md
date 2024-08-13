@@ -1,7 +1,3 @@
-# 🪐 About Me:
-*Nothing*
-
-
 ## 🌐 Socials:
 ### Discord
 
