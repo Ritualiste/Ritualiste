@@ -1,10 +1,7 @@
 ## 🌐 Socials:
 ### Discord
 
-</p>
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/492049863031259136.png"/>
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/492049863031259136)](https://discord.com/users/492049863031259136)
 
 ---
 <p align="center">
